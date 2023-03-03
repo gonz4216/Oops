@@ -1,9 +1,11 @@
 
 # Oops
+![](https://cdn.discordapp.com/attachments/1040716536341594188/1081287552931209226/image.png)
 
 **API**
 
-LetterBox Api is currently down.
+
+LetterBox Api is currently down so i used TvMaze.
 
 https://api.tvmaze.com/
 
