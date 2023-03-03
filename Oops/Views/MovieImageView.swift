@@ -4,8 +4,7 @@ import UIKit
 class MovieImageView: UIImageView {
 
  
-//    let cache = NetworkManager.shared.cache
-    
+ 
     override init(frame: CGRect) {
         super.init(frame: frame)
         configure()
